@@ -15,10 +15,7 @@
 
 Clone da IU da página inicial do Pinterest para fins de estudo.
 
-Live Demo:
-
-Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/UiClone-Photorest/)
-      <a href="https://italods.github.io/UiClone-Photorest/" target="_blank">desse link</a>
+**Live Demo:** Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/UiClone-Photorest/)
 
 ## 🚀 Tecnologias
 
@@ -28,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SCSS
 - JS
 
-## Ambiente de desenvolvimento para VSCode
+## 🔖 Ambiente de desenvolvimento para VSCode
 
 1. Abra a pasta do projeto em `VSCode`
 2. Instale as extenções `Live Server` e `Live Sass Compiler`
