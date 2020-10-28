@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Photorest" title="Photorest" src="logo.png" style="max-width:80%;"/>
+    <img alt="Photorest" title="Photorest" src="logo.png" />
 </h1>
 
 <p align="center">
@@ -18,6 +18,7 @@ Clone da IU da página inicial do Pinterest para fins de estudo.
 Live Demo:
 
 Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/UiClone-Photorest/)
+      <a href="https://italods.github.io/UiClone-Photorest/" target="_blank">desse link</a>
 
 ## 🚀 Tecnologias
 
