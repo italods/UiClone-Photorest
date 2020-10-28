@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Photorest" title="Photorest" src="logoRed.svg" />
+    <img alt="Photorest" title="Photorest" src="logo.png" style="max-width:80%;"/>
 </h1>
 
 <p align="center">
