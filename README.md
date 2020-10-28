@@ -17,7 +17,7 @@ Clone da IU da página inicial do Pinterest para fins de estudo.
 
 Live Demo:
 
-Você pode visualizar o resultado final do projeto através [desse link](#)
+Você pode visualizar o resultado final do projeto através [desse link](https://italods.github.io/UiClone-Photorest/)
 
 ## 🚀 Tecnologias
 
